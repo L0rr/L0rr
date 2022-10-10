@@ -31,7 +31,7 @@
 ### :video_game:	I'm a gamer too:
 <div>
   <img src="https://simpleicons.org/icons/counterstrike.svg" title="csgo" alt="csgo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/valorant.svg" title="Valorant" alt="Valorant" width="40" height="40"/>&nbsp;
 </div>
 <!---
 L0rr/L0rr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
