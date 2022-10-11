@@ -18,14 +18,12 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=l0rr)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0rr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### :computer: OS:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp
+  <img src="https://www.freepnglogos.com/uploads/vmware-png-logo/vmware-world-brand-png-logo-33.png" title="VMware" alt="VMware" width="40" height="40"/>&nbsp
 </div>
 
 ### :hammer_and_wrench: Tools:
@@ -47,8 +45,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
+<br/><br/><br/>
 
-
+###### "There are two ways to write error-free programs; only the third one works"
 
 <!--
 ### :video_game:	I'm a gamer too:
@@ -56,4 +55,10 @@
   <img src="https://simpleicons.org/icons/counterstrike.svg" title="csgo" alt="csgo" width="40" height="40"/>&nbsp;
   <img src="https://simpleicons.org/icons/valorant.svg" title="Valorant" alt="Valorant" width="40" height="40"/>&nbsp;
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/payday-2-icon.png" title="Valorant" alt="Valorant" width="40" height="40"/>&nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0rr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div> -->
+
+<br/><br/>
+###### Last Updated on 11/10/2022
+###### NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
