@@ -11,7 +11,7 @@
 ### :man_technologist: About Me :
 
 - ☕ I love coffee (and probably need it too)
-- 🌱 I’m currently learning python and powershell
+- 🌱 I’m currently learning python
 - 🏢 I'm working as an System Administrator
 - 👾 My Texteditor: Visual Studio Code  
 
